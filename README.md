@@ -50,7 +50,7 @@ We use <b>ASUS RT-AC66U C1 Wireless AC Router</b><br/>
 &nbsp; &nbsp; - for 6-8 Vectors<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Raspberry Pi4 v8 Gb with active cooling + 1st Samsung T7 Portable SSD 500GB<br/>
 &nbsp; &nbsp; - for 8+  Vectors<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Raspberry Pi4 v8 Gb with active cooling + 1st Samsung T7 Portable SSD 1TB<br/>
 <br/>
-&nbsp; &nbsp; ... Monitor (we use <a href="https://www.amazon.com/Capacitive-HDMI-LCD-Touchscreen-BeagleBone/dp/B07P7NZZ3F">7 Inch Sreen for Raspberry Pi</a>), mouse, keyboard<br/>
+&nbsp; &nbsp; ... Monitor (we use <a href="https://www.amazon.com/Capacitive-HDMI-LCD-Touchscreen-BeagleBone/dp/B07P7NZZ3F">7 Inch IPS Display HDMI LCD Module</a>), mouse, keyboard<br/>
 <br/>
 The Samsung T7 Portable SSD 500GB post current price [2022.12.19] 1.050 Sek = $100<br/>
 <br/>
