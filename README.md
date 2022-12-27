@@ -1,4 +1,4 @@
-# Extreme-Kit
+# Extreme Kit
 Extreme Kit for Anki Vectors Extreme Pod
 <br/>
 # Anki Vectors Extreme Kit &nbsp; / on Raspberry Pi4 v8 (Gb) /
