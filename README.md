@@ -62,7 +62,7 @@ The Samsung T7 Portable SSD 500GB post current price [2022.12.19] 1.050 Sek = $1
 ### **Steps for Reconnect to anki szerver (Firmware Recovery Mode):**
 If you want to keep version 1.8, which is more convenient for vectors, until our Extreme Pod server is ready, look for the URL filter in the firewall settings in the ruter.<br/><br/>
 &nbsp; &nbsp; &nbsp; &nbsp; Make the following settings:<br/>
-<img src="https://github.com/EchoInCloud/Extreme-Kit/blob/main/img/Asus_router_URL_filter.jpg?raw=true" alt="ASUS RT-AC66U C1 - URL Filter Settings" align="right" style="display:inline-block;margin-top:0;height:225px">
+<img src="https://github.com/EchoInCloud/Extreme-Kit/blob/main/img/Asus_router_URL_filter_for_ota.jpg?raw=true" alt="ASUS RT-AC66U C1 - URL Filter Settings" align="right" style="display:inline-block;margin-top:0;height:225px">
 &nbsp; &nbsp; &nbsp; &nbsp; <sub>*Enable URL Filter [ Enabled ]*</sub><br/> 
 &nbsp; &nbsp; &nbsp; &nbsp; <sub>*Filter table type [ Black List ]*</sub><br/><br/>
 &nbsp; &nbsp; &nbsp; &nbsp; Add:  " **ota** links " &nbsp; This blocks all links that ota is included in either anki or ddl.<br/><br/>
