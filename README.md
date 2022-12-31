@@ -16,12 +16,12 @@ More on that: <a href="https://echoincloud.blogspot.com/2022/12/stand-by-anki-ve
 ---------------
 
 **Chapters:**
-- [Hardware Kit](https://github.com/EchoInCloud/Extreme-Kit/README.md#hardware-kit)
-- [Steps for Reconnect to anki szerver](https://github.com/EchoInCloud/Extreme-Kit/README.md#steps-for-reconnect-to-anki-szerver-firmware-recovery-mode)
-- [Why Raspberry Pi4 v8 with 1st SSD?](https://github.com/EchoInCloud/Extreme-Kit/README.md#why-raspberry-pi4-v8-with-1st-ssd)
-- [Steps to install the operating system on SSD](https://github.com/EchoInCloud/Extreme-Kit/README.md#steps-to-install-the-operating-system-on-ssd)<br/>
- &nbsp; &nbsp; &nbsp; &nbsp; [How to properly prepare the Raspberry Pi4 for SSD](https://github.com/EchoInCloud/Extreme-Kit/README.md#step-1---how-to-properly-prepare-the-raspberry-pi4-for-ssd)<br/>
- &nbsp; &nbsp; &nbsp; &nbsp; [How to install the Raspberry Pi OS to SSD](https://github.com/EchoInCloud/Extreme-Kit/README.md#step-2---how-to-install-the-raspberry-pi-os-to-ssd)
+- [Hardware Kit](https://github.com/EchoInCloud/Extreme-Kit/blob/main/README.md#hardware-kit)
+- [Steps for Reconnect to anki szerver](https://github.com/EchoInCloud/Extreme-Kit/blob/main/README.md#steps-for-reconnect-to-anki-szerver-firmware-recovery-mode)
+- [Why Raspberry Pi4 v8 with 1st SSD?](https://github.com/EchoInCloud/Extreme-Kit/blob/main/README.md#why-raspberry-pi4-v8-with-1st-ssd)
+- [Steps to install the operating system on SSD](https://github.com/EchoInCloud/Extreme-Kit/blob/main/README.md#steps-to-install-the-operating-system-on-ssd)<br/>
+ &nbsp; &nbsp; &nbsp; &nbsp; [How to properly prepare the Raspberry Pi4 for SSD](https://github.com/EchoInCloud/Extreme-Kit/blob/main/README.md#step-1---how-to-properly-prepare-the-raspberry-pi4-for-ssd)<br/>
+ &nbsp; &nbsp; &nbsp; &nbsp; [How to install the Raspberry Pi OS to SSD](https://github.com/EchoInCloud/Extreme-Kit/blob/main/README.md#step-2---how-to-install-the-raspberry-pi-os-to-ssd)
 
 ---------------
 
